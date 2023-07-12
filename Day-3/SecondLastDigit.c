@@ -7,5 +7,5 @@ void main(){
     int num;
     printf("Enter a Number: ");
     scanf("%d", &num);
-    printf("Last Digit : %d", secondLastDigit(num));
+    printf("Second Last Digit : %d", secondLastDigit(num));
 }
